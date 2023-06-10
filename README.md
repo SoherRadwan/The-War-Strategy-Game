@@ -1,4 +1,5 @@
-# "The War Strategy Game."
+# "The War Strategy Game." 
+
 
 The War Strategy Game is a text-based strategy game where you, as the king, must make strategic decisions to protect your kingdom during a war. You start the game with a score of 10. Your goal is to maintain or increase your score during the course of the game. If your score falls below 10, unfortunately, you have lost the war.
 
